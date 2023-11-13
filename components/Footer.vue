@@ -35,7 +35,7 @@
         </div>
         <div class="md:w-[50%] pt-4">
           <div class="text-lg font-semibold text-secondary-rich-black">
-            Alibaba Group
+            Excepteur sint occaecat
           </div>
           <div class="text-secondary-silver text-sm">
             Sed ut perspiciatis unde omnis iste natus error sit voluptatem
